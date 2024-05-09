@@ -3,7 +3,7 @@
 im a shitty developer interested in full stack development, but primarily backend development. im also interested in hardware/pcb design, application reverse engineering, along with application development.
 im currently working on various projects related to old roblox, and old roblox revivals. as well as a couple of personal projects as well.
 
-my account workclocks got banned on github, everything i post will be mirrored to my gitlab account, for some more of my socials please view below.
+my account @workclocks got banned on github, everything i post will be mirrored to my gitlab account just in case this one does too, for some more of my socials please view below.
 
   <p>
     <a href="https://www.instagram.com/sourcevalue/" target="_blank"><img src="https://img.shields.io/badge/Instagram-222222?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sourcevalue)](https://www.instagram.com/sourcevalue/"></a>
