@@ -27,12 +27,16 @@ my account workclocks got banned on github, everything i post will be mirrored t
 ![](https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=ffffff)
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-<a href="https://github.com/workclocks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worships&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
-</a>
-<a href="https://github.com/workclocks">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=worships&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Walnuts's github stats" height="220px" />
-</a>
+<div style="display: inline-block;">
+  <a href="https://github.com/workclocks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=worships&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Walnuts's github stats" height="220px" />
+  </a>
+</div>
+<div style="display: inline-block;">
+  <a href="https://github.com/workclocks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=worships&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+  </a>
+</div>
 
 ## Github Trophies <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 <img src="https://github-profile-trophy.vercel.app/?username=worships&theme=onestar&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
